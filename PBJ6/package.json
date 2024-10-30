@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "json": "^11.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql": "^2.18.1",
+    "parser": "^0.1.4",
+    "postman-request": "^2.88.1-postman.40",
+    "token": "^0.1.0",
+    "web": "^0.0.2"
+  }
+}
